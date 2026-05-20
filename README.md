@@ -2,17 +2,45 @@
 
 <div align="center">
 
-![Tic Tac Toe](https://img.shields.io/badge/Game-Tic%20Tac%20Toe-3b82f6?style=for-the-badge&logo=gamepad&logoColor=white)
+![Prodigy Tech](https://img.shields.io/badge/Prodigy%20Tech-Internship%20Task-ff4d8d?style=for-the-badge&logo=briefcase&logoColor=white)
+![Task](https://img.shields.io/badge/Task-02%20%7C%20Tic%20Tac%20Toe-3b82f6?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?style=for-the-badge&logo=github&logoColor=white)
 
-**A premium, fully responsive Tic Tac Toe game with a modern neon gaming UI, unbeatable AI, and smooth animations — playable on any device.**
+**A premium, fully responsive Tic Tac Toe game built as part of the Prodigy Tech Web Development Internship.**  
+Features a modern neon gaming UI, unbeatable AI, synthesized sound effects, and smooth animations — playable on any device.
 
-[🎮 Play Live](https://siddhantnaik909.github.io/Tic-Toc-Tic-GAME/) • [📂 View Source](https://github.com/Siddhantnaik909/Tic-Toc-Tic-GAME)
+[🎮 Play Live](https://siddhantnaik909.github.io/Tic-Toc-Tic-GAME/) • [📂 View Source](https://github.com/Siddhantnaik909/Tic-Toc-Tic-GAME) • [🏢 Prodigy Tech](https://prodigyinfotech.dev/)
 
 </div>
+
+---
+
+## 🏢 Internship Details
+
+| Detail | Info |
+|---|---|
+| 🏢 **Organization** | Prodigy InfoTech |
+| 👨‍💻 **Intern** | Siddhant Naik |
+| 📋 **Task** | Task 02 — Build a Tic Tac Toe Web Application |
+| 🛠️ **Domain** | Web Development |
+| 📅 **Status** | ✅ Completed |
+
+### 📋 Task Requirements (Prodigy Tech)
+> Build an interactive Tic Tac Toe web application where two players can take turns clicking on a 3×3 grid, implementing functions to check for winning conditions or a draw, and displaying the result at the end of the game.
+
+**What was delivered beyond the requirements:**
+- ✅ Player vs Player (local 2-player mode)
+- ✅ Player vs Computer with 3 AI difficulty levels (Easy / Medium / Hard Minimax)
+- ✅ Win, draw, and loss detection with visual highlighting
+- ✅ Live scoreboard and match history log
+- ✅ Synthesized sound effects via Web Audio API
+- ✅ Animated canvas particle background
+- ✅ 3 switchable neon color themes
+- ✅ Fully responsive for desktop, tablet, and mobile
+- ✅ Premium glassmorphism UI with neon glow effects
 
 ---
 
@@ -71,12 +99,12 @@ Simply visit the live link:
 Tic-Toc-Tic-GAME/
 ├── index.html        # Main game page (HTML structure + embedded JS logic)
 ├── style.css         # Visual styles (glassmorphism, neon glow, responsive layout)
-├── archive/          # Old/backup files (not used by the game)
-│   ├── app.js
-│   ├── game.css
-│   ├── game.js
-│   └── style.css
-└── README.md         # This file
+├── README.md         # This file
+└── archive/          # Old/backup files (not used by the game)
+    ├── app.js
+    ├── game.css
+    ├── game.js
+    └── style.css
 ```
 
 ---
@@ -113,7 +141,7 @@ The game is fully responsive across all screen sizes:
 
 | Screen | Layout |
 |---|---|
-| **Desktop (> 850px)** | 3-column dashboard: Scoreboard | Game Board | Settings |
+| **Desktop (> 850px)** | 3-column dashboard: Scoreboard \| Game Board \| Settings |
 | **Tablet (500–850px)** | 2-column layout with stacked bottom section |
 | **Mobile (< 500px)** | Single-column stacked layout with touch-friendly cells |
 | **Small Mobile (< 600px)** | Navigation buttons collapse to icon-only toggles (🤖 👥 🔊) |
@@ -148,8 +176,8 @@ Contributions, issues, and feature requests are welcome!
 ## 👤 Author
 
 **Siddhant Naik**
-
 - GitHub: [@Siddhantnaik909](https://github.com/Siddhantnaik909)
+- Internship: [Prodigy InfoTech](https://prodigyinfotech.dev/) — Web Development Intern
 
 ---
 
@@ -161,7 +189,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
 
-Made with ❤️ and lots of ☕
+🏢 Built as part of **Prodigy Tech Web Development Internship** — Task 02
+
+Made with ❤️ by **Siddhant Naik**
 
 ⭐ **Star this repo if you enjoyed the game!** ⭐
 
